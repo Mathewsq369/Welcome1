@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(#C5FFF8,#96EFFF);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#myInput{
+    text-align: center;
+}
+#myDiv{
+    text-align: center;
+    padding-top: 10em;
+}
