@@ -1,6 +1,8 @@
 let username;
+const mySubmit = document.getElementById("mySubmit");
+const myH1 = document.getElementById("myH1")
 
-document.getElementById("mySubmit").onclick = function(){
+mySubmit.onclick = function(){
     username = document.getElementById("myInput").value;
-    document.getElementById("myH1").textContent = `Welcome ${username}`;
+    myH1.textContent = `Welcome ${username}`;
 }
