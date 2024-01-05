@@ -5,10 +5,13 @@ body{
     background-position: center;
     background-size: cover;
 }
-#myInput{
+.input{
     text-align: center;
 }
 #myDiv{
     text-align: center;
     padding-top: 10em;
+}
+#homeH1{
+    margin-left: 5em;
 }
