@@ -1,9 +1,10 @@
 body{
-    background: linear-gradient(#C5FFF8,#96EFFF);
+    background: linear-gradient(gray, black);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+    color: yellowgreen;
 }
 .input{
     text-align: center;
