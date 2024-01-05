@@ -16,7 +16,7 @@ mySubmit.onclick = function(){
         password = confPassword;
         localStorage.setItem('username', username);
         localStorage.setItem('email', email);
-        window.location.replace("home.html");
+        window.location.replace("login.html");
     }
     else if(password == confPassword && password.length < 4)
     {
